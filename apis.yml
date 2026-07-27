@@ -1,8 +1,18 @@
 aid: genial-care
 name: Genial Care
-description: Genial Care is a company surfaced as a portfolio company of general-catalyst and added to
-  the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Genial Care is a Brazilian healthtech network providing multidisciplinary,
+  evidence-based care for children with autism spectrum disorder (ASD) and
+  atypical development up to roughly eight years of age. Founded in 2020 in
+  Sao Paulo, it operates a network of clinics ("Casas Geniais") across Greater
+  Sao Paulo delivering ABA (applied behavior analysis), speech-language therapy,
+  and occupational therapy, alongside family assessments, in-person and online
+  consultations, educational content, and a professional training academy. Care
+  is coordinated through a proprietary mobile app that supports continuous
+  monitoring and family engagement. The company partners with major Brazilian
+  health plans (operadoras), which account for the majority of its revenue, and
+  is backed by General Catalyst. Genial Care operates as a consumer/clinical
+  care provider and does not publish a public developer API surface.
 url: https://raw.githubusercontent.com/api-evangelist/genial-care/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,14 +20,47 @@ x-backed-by:
 - general-catalyst
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://genialcare.com.br/wp-content/uploads/2023/05/Logo-para-o-site.png
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Healthcare
+- Health
+- Autism
+- Therapy
+- Digital Health
+- Childcare
+- Brazil
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+common:
+- type: DomainSecurity
+  url: security/genial-care-domain-security.yml
+- type: Website
+  url: https://genialcare.com.br
+- type: Blog
+  url: https://genialcare.com.br/blog
+- type: PrivacyPolicy
+  url: https://genialcare.com.br/politica-de-privacidade
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
