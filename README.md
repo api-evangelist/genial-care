@@ -64,6 +64,81 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Genial Care is a company surfaced as a portfolio company of general-catalyst and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Genial Care is a Brazilian healthtech network providing multidisciplinary, evidence-based care for children with autism spectrum disorder (ASD) and atypical development up to roughly eight years of age. Founded in 2020 in Sao Paulo, it operates a network of clinics ("Casas Geniais") across Greater Sao Paulo delivering ABA (applied behavior analysis), speech-language therapy, and occupational therapy, alongside family assessments, in-person and online consultations, educational content, and a professional training academy. Care is coordinated through a proprietary mobile app that supports continuous monitoring and family engagement. The company partners with major Brazilian health plans (operadoras), which account for the majority of its revenue, and is backed by General Catalyst. Genial Care operates as a consumer/clinical care provider and does not publish a public developer API surface.
 
-Backed by: general-catalyst
+**Areas:** Company · Healthcare · Health · Autism · Therapy · Digital Health · Childcare · Brazil
+
+## Genial Care on APIs.io
+
+Everything profiled for Genial Care is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/genial-care/](https://apis.io/providers/genial-care/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Genial Care Domain Security](https://apis.io/security/genial-care/genial-care-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://genialcare.com.br)
+- [Blog](https://genialcare.com.br/blog)
+- [Privacy policy](https://genialcare.com.br/politica-de-privacidade)
+
+## API Evangelist rating
+
+**Kin Score 6.8** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 10.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 7.8** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/genial-care/](https://apis.io/providers/genial-care/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Genial Care: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/genial-care/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
